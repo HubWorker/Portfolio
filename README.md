@@ -37,9 +37,26 @@
  d.g.ischenkowork@yandex.ru
 
  ССЫЛКИ НА СДЕЛАННЫЕ ПРОЕКТЫ:
- Декомпозиция MIRO: https://miro.com/app/board/uXjVPNd6l_U=/?share_link_id=588512316302 - (MS WORD)
-                    
  
+ ДЕКОМПОЗИЦИЯ MIRO: 
+ MS WORD: https://miro.com/app/board/uXjVPNd6l_U=/?share_link_id=588512316302;
+ Объект "Заказ" схема состояний и переходов: https://miro.com/app/board/uXjVPBqc8iE=/?share_link_id=484882207379;
+ Система для заказа на примере кондитерского магазина: https://miro.com/app/board/uXjVPI1i39Q=/?share_link_id=529999258942;
+ Доска расписания преподователя Skyeng: https://miro.com/app/board/uXjVPC0Lv8w=/?share_link_id=230661319221;
+ Онлайн библиотека: https://miro.com/app/board/uXjVPI1i39Q=/?share_link_id=732314457044.
  
+ ПРИМЕРЫ ТЕСТ КЕЙСОВ:
+ 1) Тестирование поиска на сайте Avito.ru: https://docs.google.com/document/d/10UNPtFFv1EX5sniFc5ZcfLLwDHFazJGTY-BrbdPD0TA/edit?usp=sharing;
+ 2) Skyeng раздел Пожелание к урокам: https://docs.google.com/document/d/1CeqHMKWDIWrJGkuKRNd60BnYbxlV9wCMEbIXabOqXfo/edit?usp=sharing;
+ 3) Регистрации и авторизации нового пользователя на сайте musescore.com: https://docs.google.com/document/d/1rK7cj15WnDGqTEJnzY_AteHi_6kgFP8f2yY9KKzYUps/edit?usp=sharing;
+ 4) Функционала API на примере Портала администратора по созданию тортов: https://docs.google.com/document/d/1GGaOjQ7s8lr8s4fyHV5PR4x0xAJUjespE7eOXzzlQkw/edit?usp=sharing;
+ 
+  ПРИМЕРЫ СОЗДАНИЯ ЧЕК ЛИСТОВ:
+  1) Тестовый урок: https://docs.google.com/spreadsheets/d/1ifDuRkAJE0bOdlTmjhfcPHxevoimObdr8FToV5pEabA/edit?usp=sharing
+  2) Мобильное приложение Skyeng: https://docs.google.com/spreadsheets/d/1-iCxH9bNZRbeQ9NgOKieq87UF_jtXEn84g1If4Vb334/edit?usp=sharing;
+                                  https://docs.google.com/spreadsheets/d/1MW8UKNLD7hKtztrOujsO9E0zyWDXfAJY-F5S2oBA-t0/edit?usp=sharing;
+                                  https://docs.google.com/spreadsheets/d/1AOtAQpqGxrQPcFlhRPIq3dedv-Q4JAlwzThlErnM-z8/edit?usp=sharing;
+                                  https://docs.google.com/spreadsheets/d/1HkYZulJLqDJTEIKe2uxnGhRpmt0cZ1iU9T8CI50tcvQ/edit?usp=sharing.
 
-
+POSTMAN: 
+Яндекс расписание:  
