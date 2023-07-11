@@ -37,6 +37,9 @@
  d.g.ischenkowork@yandex.ru
 
  ССЫЛКИ НА СДЕЛАННЫЕ ПРОЕКТЫ:
- Декомпозиция MIRO: 
+ Декомпозиция MIRO: https://miro.com/app/board/uXjVPNd6l_U=/?share_link_id=588512316302 - (MS WORD)
+                    
+ 
+ 
 
 
