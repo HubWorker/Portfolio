@@ -59,8 +59,10 @@
                                   https://docs.google.com/spreadsheets/d/1HkYZulJLqDJTEIKe2uxnGhRpmt0cZ1iU9T8CI50tcvQ/edit?usp=sharing.
 
 
-  ПРИМЕРЫ БАГ РЕПОРТОВ:
-  Jira: https://denfasttester.atlassian.net/issues/?jql=project+%3D+%22SKYEN%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiODA0N2YzZmRkM2ExNGNmN2E0MzFjN2VjMzIwMjNiYzEiLCJwIjoiaiJ9;
+  ПРИМЕРЫ БАГ РЕПОРТОВ JIRA:
+  Skyeng мобильное и десктопное приложение для учителей: 
+  https://docs.google.com/document/d/17XxCePTbdyUpMb1TvACgFg4w68kqDplk/edit usp=sharing&ouid=116622452837674654995&rtpof=true&sd=true.
+     
   
 
    
