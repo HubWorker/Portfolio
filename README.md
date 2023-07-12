@@ -39,23 +39,34 @@
     https://miro.com/app/board/uXjVPNd6l_U=/?share_link_id=588512316302;
     
  2) Объект "Заказ" схема состояний и переходов:
-     https://miro.com/app/board/uXjVPBqc8iE=/?share_link_id=484882207379;
+    https://miro.com/app/board/uXjVPBqc8iE=/?share_link_id=484882207379;
     
- 3) Система для заказа на примере кондитерского магазина: https://miro.com/app/board/uXjVPI1i39Q=/?share_link_id=529999258942;
+ 3) Система для заказа на примере кондитерского магазина: 
+    https://miro.com/app/board/uXjVPI1i39Q=/?share_link_id=529999258942;
     
  4) Доска расписания преподавателя Skyeng: Предназначена для 
     https://miro.com/app/board/uXjVPC0Lv8w=/?share_link_id=230661319221;
     
- 5) Онлайн библиотека: https://miro.com/app/board/uXjVPI1i39Q=/?share_link_id=732314457044.
+ 5) Онлайн библиотека:
+    https://miro.com/app/board/uXjVPI1i39Q=/?share_link_id=732314457044.
  
  ПРИМЕРЫ ТЕСТ КЕЙСОВ:
- 1) Тестирование поиска на сайте Avito.ru: https://docs.google.com/document/d/10UNPtFFv1EX5sniFc5ZcfLLwDHFazJGTY-BrbdPD0TA/edit?usp=sharing;
+ 1) "АВИТО" Интернет сервис размещения объявлений о товарах, недвижимости, вакансиях и резюме на рынке труда, а также услугах от частных лиц и компаний, занимающий первое место в мире среди сайтов объявлений. 
+
+ Тестирование поиска на сайте Avito.ru (www.avito.ru) 
+ https://docs.google.com/document/d/10UNPtFFv1EX5sniFc5ZcfLLwDHFazJGTY-BrbdPD0TA/edit?usp=sharing;
    
- 2) Skyeng раздел Пожелание к урокам: https://docs.google.com/document/d/1CeqHMKWDIWrJGkuKRNd60BnYbxlV9wCMEbIXabOqXfo/edit?usp=sharing;
+ 2) Онлайн-школа Skyeng — доступное дистанционное обучение английскому языку через интернет на собственной образовательной платформе. (https://student.skyeng.ru/profile)
+
+ Тестирование раздела "Пожелание к урокам":  https://docs.google.com/document/d/1CeqHMKWDIWrJGkuKRNd60BnYbxlV9wCMEbIXabOqXfo/edit?usp=sharing;
   
- 3) Регистрации и авторизации нового пользователя на сайте musescore.com: https://docs.google.com/document/d/1rK7cj15WnDGqTEJnzY_AteHi_6kgFP8f2yY9KKzYUps/edit?usp=sharing;
+ 3) OpenSource проект по написанию нот MuseScore.com (https://musescore.org/ru)
+ 
+Тестирование раздела Регистрации и авторизации нового пользователя на сайте musescore.com: https://docs.google.com/document/d/1rK7cj15WnDGqTEJnzY_AteHi_6kgFP8f2yY9KKzYUps/edit?usp=sharing;
     
- 4) Функционал API на примере Портала администратора по созданию тортов: https://docs.google.com/document/d/1GGaOjQ7s8lr8s4fyHV5PR4x0xAJUjespE7eOXzzlQkw/edit?usp=sharing;
+ 4) Учебный порта адмиинистратора кондитерской (https://buy-cakes.herokuapp.com/admin)
+
+Функционал API на примере Портала администратора по созданию тортов: https://docs.google.com/document/d/1GGaOjQ7s8lr8s4fyHV5PR4x0xAJUjespE7eOXzzlQkw/edit?usp=sharing;
  
   ПРИМЕРЫ СОЗДАНИЯ ЧЕК ЛИСТОВ:
   1) Тестовый урок: https://docs.google.com/spreadsheets/d/1ifDuRkAJE0bOdlTmjhfcPHxevoimObdr8FToV5pEabA/edit?usp=sharing
