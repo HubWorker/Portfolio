@@ -80,12 +80,19 @@
 
   ПРИМЕРЫ БАГ РЕПОРТОВ JIRA:
   Skyeng мобильное и десктопное приложение для учителей: 
-  https://docs.google.com/document/d/17XxCePTbdyUpMb1TvACgFg4w68kqDplk/edit usp=sharing&ouid=116622452837674654995&rtpof=true&sd=true.
+  
+  Все вместе:
+  - https://docs.google.com/document/d/17XxCePTbdyUpMb1TvACgFg4w68kqDplk/edit usp=sharing&ouid=116622452837674654995&rtpof=true&sd=true.
+  
+  По отдельности: 
+  - https://denfasttester.atlassian.net/browse/SKYEN-25?atlOrigin=eyJpIjoiZThlNTA4YWRlMGMzNDUxM2IxMGVmMDY2NjYyYTg3NWQiLCJwIjoiaiJ9
+  - https://denfasttester.atlassian.net/browse/SKYEN-21?atlOrigin=eyJpIjoiZWE5NmJmNWZiNDA0NGE2YjlhMmM2ZGI4YTQ4NjhlZGUiLCJwIjoiaiJ9
+  - https://denfasttester.atlassian.net/browse/SKYEN-14?atlOrigin=eyJpIjoiNTYyMDhmYWE5MDhlNDgwZWJjOWYxNzQ1ZDAxMzE5M2IiLCJwIjoiaiJ9
      
   
  КОНТАКТНАЯ ИНФОРМАЦИЯ:
  Email: d.g.ischenkowork@yandex.ru
  Тел: +7-951-152-85-94
- Telegramm @denis_g_i
+ Telegramm @denis_ischenko
  
    
